@@ -1,4 +1,4 @@
-Ola! 👋 Mue nome é BenHur Albertassi
+Ola! 👋 Meu nome é BenHur Albertassi
 ==================================
 
 Estudante de Desenvolvimento Web
