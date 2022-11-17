@@ -7,7 +7,6 @@ Estudante de Desenvolvimento Web
 Estudante em transição de carreira, bem vindo ao meu GitHub
 
 * 🌍  Atualmente moro no Rio de Janeiro Brasil
-* 🌍  Logo mais França
 * 🖥️  Veja meu portifólio em [https://BenHurAlbertassi12.github.io](http://BenHurAlbertassi12.github.io)
 * ✉️  e-mail de contato é [benhuralber@yahoo.com.br](mailto:benhuralber@yahoo.com.br)
 * ⚡  Apaixonado por gatos, valorant e patins
