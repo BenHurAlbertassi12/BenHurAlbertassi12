@@ -17,7 +17,12 @@ src="https://img.shields.io/github/followers/BenHurAlbertassi12?logo=github&styl
 ### Skills
 
 </br>
+
+![BenHur's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenHurAlbertassi12&show_icons=true&theme=tokyonight)
+</br>
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenHurAlbertassi12&layout=compact)
+
 </br>
 
 <p align="left">
