@@ -16,6 +16,9 @@ src="https://img.shields.io/github/followers/BenHurAlbertassi12?logo=github&styl
 
 ### Skills
 
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenHurAlbertassi12&layout=compact)
+</br>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
