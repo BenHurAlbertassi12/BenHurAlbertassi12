@@ -1,10 +1,10 @@
 Ola! 👋 Meu nome é BenHur Albertassi
 ==================================
 
-Estudante de Desenvolvimento Web
+Desenvolvedor web Full-Stack
 --------------------------------
 
-Estudante em transição de carreira, bem vindo ao meu GitHub
+Desenvolvedor web em transição de carreira, bem vindo ao meu GitHub
 
 * 🌍  Atualmente moro no Rio de Janeiro Brasil
 * 🖥️  Veja meu portifólio em [https://benhuralbertassi.vercel.app/](https://benhuralbertassi.vercel.app/)
