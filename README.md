@@ -7,7 +7,7 @@ Desenvolvedor web Full-Stack
 Desenvolvedor web em transição de carreira, bem vindo ao meu GitHub
 
 * 🌍  Atualmente moro no Rio de Janeiro Brasil
-* 🖥️  Veja meu portifólio em [https://benhuralbertassi.vercel.app/](https://benhuralbertassi.vercel.app/)
+* 🖥️  Veja meu portifólio em [https://benhur-albertassi.vercel.app/](https://benhuralbertassi.vercel.app/)
 * ✉️  e-mail de contato é [dev.benhur@gmail.com](mailto:dev.benhur@gmail.com)
 * ⚡  Apaixonado por gatos, valorant e patins
 
